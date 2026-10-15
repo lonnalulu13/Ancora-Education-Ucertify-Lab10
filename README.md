@@ -4,7 +4,9 @@
 Implementing port security involves setting up network security measures to restrict access to a specific network interface. This is achieved by specifying allowed media access control address (MAC) addresses and blocking all other traffic. It helps enhance network security by permitting only authorized devices to connect to the network through the designated access port, thereby preventing unauthorized access and potential security breaches.
 
 > **Original Lab Source**
+> 
 > This lab was available through:
+> 
 > [https://ancoraeducation.ucertify.com/app/?func=navigate_items&item_sequence=2]
 
 ## Instructions
